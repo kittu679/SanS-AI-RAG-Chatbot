@@ -197,7 +197,7 @@ Response: [Comprehensive answer drawing from multiple sources]
 
 **Developer**: K. Kiran, IIT Kanpur  
 **Project Type**: Academic/Research  
-**License**: [Specify your license here]
+
 
 ## 🤝 Contributing
 
@@ -210,4 +210,3 @@ This is a research project showcasing RAG implementation for Sanskrit texts. For
 
 ---
 
-**Built with ❤️ for preserving and making accessible the wisdom of ancient Sanskrit literature through modern AI technology.**
